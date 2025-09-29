@@ -1,8 +1,8 @@
 # 🏠 House Price Prediction App
 
 A Machine Learning powered web application that predicts housing prices in Bengaluru based on location, BHK, bathrooms, and square footage.
-🚀 Built with a Flask backend (deployed on Render) and a plain HTML/CSS/JS frontend (deployed on Netlify).
-
+🚀 Built with a Flask backend (deployed on Render) and a plain HTML/CSS/JS frontend (deployed on Netlify).<br>
+#### [Project Demo Link](https://housepricepredictionbengalure.netlify.app/)
 --- 
 
 ## 📌 Features
